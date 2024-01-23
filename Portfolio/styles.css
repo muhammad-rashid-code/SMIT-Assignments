@@ -1,0 +1,60 @@
+header,
+figure {
+  margin: auto;
+  text-align: center;
+}
+h1,
+figcaption {
+  text-transform: capitalize;
+}
+figcaption {
+  color: white;
+}
+h1,
+img {
+  display: inline;
+}
+
+img {
+  border-radius: 40%;
+  /* background-color: black; */
+}
+figure {
+  background-color: black;
+}
+/* ul {
+  display: flex;
+  justify-content: center;
+}
+
+.logo {
+  height: 4vh;
+  width: 2.5vw;
+  border-radius: 50%;
+  border: 2px solid black;
+}
+li {
+  list-style: none;
+} */
+
+ul {
+  margin: auto;
+  text-align: center;
+}
+
+li {
+  display: inline;
+}
+
+a {
+  /* background-color: black; */
+}
+
+.logo {
+  width: 2.5vw;
+  height: 4vh;
+  border: 2px solid black;
+  margin: 0;
+  padding: 0;
+  border-radius: 51%;
+}
